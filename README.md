@@ -1,4 +1,4 @@
 # Road-Lane-Detection
 Road Lane Detection using openCV
 
-Description will be updated on [my blog](https://think9.github.io)
+You can find Decription on [my blog](https://think9.github.io/2019-10-21-Lane-Detection/)
